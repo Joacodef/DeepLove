@@ -1,0 +1,15 @@
+numpy
+tensorflow==2.10.0
+tensorflow_addons
+tensorflow_hub
+unidecode
+spacy
+spacy_spanish_lemmatizer
+nltk
+pandas
+re
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+transformers
